@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+g:\vstudio\visual\projects\zappy_client2\zappy_client2\MyForm2.h(539): warning C4018: '<' : incompatibilité signed/unsigned
+g:\vstudio\visual\projects\zappy_client2\zappy_client2\MyForm2.h(544): warning C4018: '<' : incompatibilité signed/unsigned
+g:\vstudio\visual\projects\zappy_client2\zappy_client2\MyForm2.h(515): warning C4101: 'buffer' : variable locale non référencée
+g:\vstudio\visual\projects\zappy_client2\zappy_client2\MyForm.h(224): warning C4244: 'initialisation' : conversion de '__int64' en 'int', perte possible de données
+g:\vstudio\visual\projects\zappy_client2\zappy_client2\MyForm.h(228): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\winsock2.h(1830): note: voir la déclaration de 'inet_addr'
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Zappy_client2.vcxproj -> G:\Vstudio\Visual\Projects\Zappy_client2\Release\Zappy_client2.exe

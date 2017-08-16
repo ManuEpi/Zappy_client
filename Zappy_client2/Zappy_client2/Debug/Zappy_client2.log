@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+g:\vstudio\visual\projects\zappy_client2\zappy_client2\MyForm.h(208): warning C4244: 'initialisation' : conversion de '__int64' en 'int', perte possible de données
+g:\vstudio\visual\projects\zappy_client2\zappy_client2\MyForm.h(220): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\winsock2.h(1830): note: voir la déclaration de 'inet_addr'
+g:\vstudio\visual\projects\zappy_client2\zappy_client2\MyForm.h(221): warning C4477: 'printf' : la chaîne de format '%s' nécessite un argument de type 'char *', mais l'argument variadique 1 est de type 'System::String ^'
+  MyForm2.cpp
+  Génération de code en cours...
+  Zappy_client2.vcxproj -> G:\Vstudio\Visual\Projects\Zappy_client2\Debug\Zappy_client2.exe
